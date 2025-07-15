@@ -76,6 +76,7 @@ Press `ESC` at any time to quit instantly.
 ---
 ## Ouputs
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0595b3fb-cdc5-42ad-b463-0cc49ca749be" />
 ## 📚 Learning Outcomes
 
 This project is ideal for understanding:
